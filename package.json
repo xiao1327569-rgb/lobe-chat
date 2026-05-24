@@ -192,7 +192,6 @@
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
     "@emoji-mart/data": "^1.2.1",
-    "@emoji-mart/react": "^1.1.1",
     "@emotion/react": "^11.14.0",
     "@fal-ai/client": "^1.8.4",
     "@floating-ui/react": "^0.27.19",
