@@ -553,7 +553,12 @@
       "@lobehub/editor",
       "ffmpeg-static"
     ],
-    "overrides": {
+  "overrides": {
+         "@emoji-mart/react": {
+           "react": "$react"
+         },
+         "@react-pdf/image": "3.8.4",
+         "@types/react": "19.2.13",
       "@react-pdf/image": "3.0.4",
       "@types/react": "19.2.13",
       "antd": "6.3.5",
@@ -571,10 +576,7 @@
   },
   "patchedDependencies": {
     "@upstash/qstash": "patches/@upstash__qstash.patch"
-  },
-  "overrides": {
-    "@emoji-mart/react": {
-      "react": "$react"
-    }
+  }
+
   }
 }
